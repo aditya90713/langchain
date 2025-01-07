@@ -1,0 +1,7 @@
+# openai==0.28
+python-dotenv
+# langchain_openai
+langchain_community
+langchain-huggingface
+langchain
+huggingface_hub

@@ -1,0 +1,5 @@
+python-dotenv
+groq
+langchain==0.1.16
+langchain-core
+langchain-groq
